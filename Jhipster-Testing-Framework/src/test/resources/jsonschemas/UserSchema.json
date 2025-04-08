@@ -1,0 +1,63 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": ["object","array"],
+  "items": [
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": ["null","integer"]
+        },
+        "login": {
+          "type": ["null","string"]
+        },
+        "firstName": {
+          "type": ["null","string"]
+        },
+        "lastName": {
+          "type": ["null","string"]
+        },
+        "email": {
+          "type": ["null","string"]
+        },
+        "imageUrl": {
+          "type": ["null","string"]
+        },
+        "activated": {
+          "type": ["null","boolean"]
+        },
+        "langKey": {
+          "type": ["null","string"]
+        },
+        "createdBy": {
+          "type": ["null","string"]
+        },
+        "createdDate": {
+          "type": ["null","string"]
+        },
+        "lastModifiedBy": {
+          "type": ["null","string"]
+        },
+        "lastModifiedDate": {
+          "type": ["null","string"]
+        },
+        "authorities": {
+          "type": ["null","array"],
+          "items": [
+            {
+              "type": ["null","string"]
+            }
+          ]
+        },
+        "resetDate": {
+          "type": ["null","string"]
+        }
+      },
+      "required": [
+        "id",
+        "login",
+        "email"
+      ]
+    }
+  ]
+}

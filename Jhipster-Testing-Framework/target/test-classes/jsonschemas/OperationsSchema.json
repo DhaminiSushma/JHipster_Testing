@@ -1,0 +1,66 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": ["object","array"],
+  "items": [
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "integer"
+        },
+        "date": {
+          "type": ["null","string"]
+        },
+        "description": {
+          "type": ["null","string"]
+        },
+        "amount": {
+          "type": ["null","number"]
+        },
+        "bankAccount": {
+          "type": ["null","object"],
+          "properties": {
+            "id": {
+              "type": ["null","integer"]
+            },
+            "name": {
+              "type": ["null","string"]
+            },
+            "balance": {
+              "type": ["null","integer"]
+            }
+          },
+          "required": [
+            "id",
+            "name",
+            "balance"
+          ]
+        },
+        "labels": {
+          "type": ["null","array"],
+          "items": [
+            {
+              "type": "object",
+              "properties": {
+                "id": {
+                  "type": ["null","integer"]
+                },
+                "label": {
+                  "type": ["null","string"]
+                }
+              },
+              "required": [
+                "id",
+                "label"
+              ]
+            }
+          ]
+        }
+      },
+      "required": [
+        "date",
+        "amount"
+      ]
+    }
+  ]
+}

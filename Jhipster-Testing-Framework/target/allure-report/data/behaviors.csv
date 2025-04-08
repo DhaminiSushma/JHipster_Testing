@@ -1,0 +1,4 @@
+"BROKEN","EPIC","FAILED","FEATURE","PASSED","SKIPPED","STORY","UNKNOWN"
+"0","","0","Login Action","4","0","Restrict Login to Invalid Credentials","0"
+"0","","0","Login Action","4","0","Successful Login with Valid Credentials","0"
+"0","","0","Jhipster Home App actions after Logging in","1","0","","0"

@@ -1,0 +1,1 @@
+{"uuid":"c1430e78-a8c9-46ed-8b6c-4e2bdb99eeec","name":"Jhipster-Sample-App-Test-Suite","children":["355aa4eb-205d-4d0f-b17d-45c5b892b630"],"befores":[{"name":"setBrowser","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1744007137468,"stop":1744007137472}],"afters":[],"start":1744007137448,"stop":1744007138241}

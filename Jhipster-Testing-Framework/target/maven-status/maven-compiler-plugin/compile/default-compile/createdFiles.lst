@@ -1,0 +1,4 @@
+com\epam\constants\ConfigProvider.class
+com\epam\utils\ConfigReader.class
+com\epam\utils\WebDriverUtils.class
+com\epam\constants\JdbcConnection.class

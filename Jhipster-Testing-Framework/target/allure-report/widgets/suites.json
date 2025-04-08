@@ -1,0 +1,1 @@
+{"total":2,"items":[{"uid":"b55d49cd8ee1e098c059adf7b7c1e284","name":"Login Action","statistic":{"failed":0,"broken":0,"skipped":0,"passed":8,"unknown":0,"total":8}},{"uid":"0d2e55139e6ae3b248769af3f3f6d28d","name":"Jhipster Home App actions after Logging in","statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1}}]}

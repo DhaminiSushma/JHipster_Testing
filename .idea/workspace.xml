@@ -4,11 +4,34 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="09130ba8-796c-4ba1-9e15-3bd8e4df5a8c" name="Changes" comment="Removed App classes - Initial Commit" />
+    <list default="true" id="09130ba8-796c-4ba1-9e15-3bd8e4df5a8c" name="Changes" comment="Removed App classes - Initial Commit">
+      <change afterPath="$PROJECT_DIR$/Testing_Practice_BDD/src/main/java/com/epam/constants/ConfigProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testing_Practice_BDD/src/main/java/com/epam/utils/ConfigUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testing_Practice_BDD/src/test/java/com/epam/api/models/Authenticate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testing_Practice_BDD/src/test/java/com/epam/api/models/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testing_Practice_BDD/src/test/java/com/epam/api/requestspecs/AuthenticationUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testing_Practice_BDD/src/test/java/com/epam/api/requestspecs/RequestSpec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testing_Practice_BDD/src/test/java/com/epam/api/stepdefinitions/BankAccountTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testing_Practice_BDD/src/test/java/com/epam/hooks/APIHook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testing_Practice_BDD/src/test/java/com/epam/runners/APIRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testing_Practice_BDD/src/test/resources/features/api/BankAccountTests.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Testing_Practice_BDD/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Testing_Practice_BDD/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Testing_Practice_BDD/src/main/resources/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Testing_Practice_BDD/src/main/resources/config.properties" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -35,14 +58,43 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Cucumber Java.Scenario: Create a bank account.executor": "Run",
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "TestNG.APIRunner.executor": "Run",
     "git-widget-placeholder": "BDD",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/FrameworkPractice/JHipster_Testing"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Scenario: Create a bank account" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/Testing_Practice_BDD/src/test/resources/features/api/BankAccountTests.feature" />
+      <option name="GLUE" value="com.epam.hooks com.epam.api.stepdefinitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="Testing_Practice_BDD" />
+      <option name="NAME_FILTER" value="^Create a bank account$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Create a bank account$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Create a bank account" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber Java.Scenario: Create a bank account" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
