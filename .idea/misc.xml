@@ -6,11 +6,13 @@
       <list>
         <option value="$PROJECT_DIR$/JHipster_Testing_Practice/pom.xml" />
         <option value="$PROJECT_DIR$/Testing_Practice_BDD/pom.xml" />
+        <option value="$PROJECT_DIR$/Jhipster-Testing-Framework/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/JHipster_Testing_Practice/pom.xml" />
+        <option value="$PROJECT_DIR$/Testing_Practice_BDD/pom.xml" />
       </set>
     </option>
   </component>

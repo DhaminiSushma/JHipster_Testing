@@ -7,11 +7,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Testing_Practice_BDD" />
+        <module name="Jhipster-Testing-Framework" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="JHipster_Testing_Practice" target="1.8" />
+      <module name="Testing_Practice_BDD" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
