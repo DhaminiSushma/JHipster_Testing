@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="09130ba8-796c-4ba1-9e15-3bd8e4df5a8c" name="Changes" comment="Removed App classes - Initial Commit" />
+    <list default="true" id="09130ba8-796c-4ba1-9e15-3bd8e4df5a8c" name="Changes" comment="Removed App classes - Initial Commit">
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jhipster-Testing-Practice/logs/main.log" beforeDir="false" afterPath="$PROJECT_DIR$/Jhipster-Testing-Practice/logs/main.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jhipster-Testing-Practice/target/cucumber" beforeDir="false" afterPath="$PROJECT_DIR$/Jhipster-Testing-Practice/target/cucumber" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jhipster-Testing-Practice/target/cucumber-reports.html" beforeDir="false" afterPath="$PROJECT_DIR$/Jhipster-Testing-Practice/target/cucumber-reports.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jhipster-Testing-Practice/target/test-classes/com/epam/runners/APIRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/Jhipster-Testing-Practice/target/test-classes/com/epam/runners/APIRunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jhipster-Testing-Practice/target/test-classes/com/epam/runners/UiRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/Jhipster-Testing-Practice/target/test-classes/com/epam/runners/UiRunner.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,49 +48,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Cucumber Java.Scenario: Create a bank account.executor&quot;: &quot;Run&quot;,
-    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;TestNG.APIRunner.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.UiRunner.executor&quot;: &quot;Run&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;BDD&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/FrameworkPractice/JHipster_Testing/Jhipster-Testing-Framework&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Cucumber Java.Scenario: Create a bank account.executor": "Run",
+    "Cucumber Java.Scenario: View All Operations.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "TestNG.APIRunner.executor": "Run",
+    "TestNG.UiRunner.executor": "Run",
+    "git-widget-placeholder": "BDD",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/learning"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\FrameworkPractice\JHipster_Testing" />
     </key>
-  </component>
-  <component name="RunManager">
-    <configuration name="Scenario: View All Operations" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
-      <option name="CUCUMBER_CORE_VERSION" value="5" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/Jhipster-Testing-Framework/src/test/resources/features/api/OperationsTest.feature" />
-      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
-      <module name="Jhipster-Testing-Framework" />
-      <option name="NAME_FILTER" value="^View All Operations$" />
-      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^View All Operations$&quot;" />
-      <option name="SUGGESTED_NAME" value="Scenario: View All Operations" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="io.cucumber.core.cli.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Cucumber Java.Scenario: View All Operations" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">

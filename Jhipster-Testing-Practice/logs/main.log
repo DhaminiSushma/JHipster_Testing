@@ -1089,3 +1089,12 @@ Exporting webdriver.chrome.driver as C:\Users\pasamdhaminisushma_s\.cache\seleni
 
 Using chromedriver 135.0.7049.42 (resolved driver for Chrome 135)
 Exporting webdriver.chrome.driver as C:\Users\pasamdhaminisushma_s\.cache\selenium\chromedriver\win64\135.0.7049.42\chromedriver.exe
+[TestNG] Running:
+  C:\Users\pasamdhaminisushma_s\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Using chromedriver 135.0.7049.84 (resolved driver for Chrome 135)
+Downloading https://storage.googleapis.com/chrome-for-testing-public/135.0.7049.84/win64/chromedriver-win64.zip
+Extracting driver from compressed file chromedriver-win64.zip
+Exporting webdriver.chrome.driver as C:\Users\pasamdhaminisushma_s\.cache\selenium\chromedriver\win64\135.0.7049.84\chromedriver.exe
+Using chromedriver 135.0.7049.84 (resolved driver for Chrome 135)
+Exporting webdriver.chrome.driver as C:\Users\pasamdhaminisushma_s\.cache\selenium\chromedriver\win64\135.0.7049.84\chromedriver.exe
