@@ -1,3 +1,6 @@
 "BROKEN","EPIC","FAILED","FEATURE","PASSED","SKIPPED","STORY","UNKNOWN"
-"2","","0","Authentication Endpoint","4","0","Bad Request Credentials","0"
 "2","","0","Authentication Endpoint","4","0","Valid Credentials test","0"
+"2","","3","Bank Account Endpoint","1","0","Invalid Bank Accounts Post","0"
+"0","","0","Bank Account Endpoint","5","0","Valid Bank Accounts Post","0"
+"2","","0","Authentication Endpoint","4","0","Bad Request Credentials","0"
+"0","","0","Bank Account Endpoint","1","0","Valid Get Bank Account Requests","0"

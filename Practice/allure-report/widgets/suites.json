@@ -1,1 +1,1 @@
-{"total":1,"items":[{"uid":"ffed2a922e550c6f59d3f6c33dfa19f3","name":"Authentication Endpoint","statistic":{"failed":0,"broken":4,"skipped":0,"passed":8,"unknown":0,"total":12}}]}
+{"total":2,"items":[{"uid":"8ba317719ec055dd0b308767c1290ac8","name":"Bank Account Endpoint","statistic":{"failed":3,"broken":2,"skipped":0,"passed":7,"unknown":0,"total":12}},{"uid":"ffed2a922e550c6f59d3f6c33dfa19f3","name":"Authentication Endpoint","statistic":{"failed":0,"broken":4,"skipped":0,"passed":8,"unknown":0,"total":12}}]}
