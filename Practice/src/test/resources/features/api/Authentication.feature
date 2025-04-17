@@ -2,7 +2,7 @@
 Feature: Authentication Endpoint
 
   Background:
-    Given User with url endpoint "http://localhost:9000/api"
+    Given User is at the base URL
 
   Scenario Template: Valid Credentials test
     When User enters valid Username "<username>", valid Password "<password>" and RememberMe "<rememberMe>" at endpoint "/authenticate"

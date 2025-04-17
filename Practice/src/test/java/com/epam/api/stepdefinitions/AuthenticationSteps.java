@@ -15,8 +15,8 @@ public class AuthenticationSteps {
     private Response response;
     private static ApiUtils apiUtils;
 
-    @Given("User with url endpoint {string}")
-    public void setBaseUrl(String url) throws JsonProcessingException {
+    @Given("User is at the base URL")
+    public void setBaseUrl() throws JsonProcessingException {
         String accessToken = AuthenticationUtil.getToken("admin", "admin");
         apiUtils = new ApiUtils(accessToken);
     }
